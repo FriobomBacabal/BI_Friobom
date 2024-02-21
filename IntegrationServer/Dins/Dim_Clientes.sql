@@ -1,5 +1,5 @@
 /*BI - Friobom 
-Script 
+Script Dimensões Clientes
 */
 
 SELECT 

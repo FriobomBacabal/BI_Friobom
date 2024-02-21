@@ -1,7 +1,5 @@
 /*BI - Friobom 
-Script Dimensões Fornecedor
-Created by : André Luis
-Data:
+Script Dimensões Produto
 */
 
 SELECT PRO.CODPROD AS CODIGOPRODUTO,
