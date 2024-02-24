@@ -18,3 +18,7 @@ Instalação do SQL SERVER
 	Adicionar Usuário Atual
 1.8 - Distributed Replay controller
 	Adicionar Usuário Atual
+
+
+Instalação do Sql Server Management
+SSMS-Setup-ENU.exe
