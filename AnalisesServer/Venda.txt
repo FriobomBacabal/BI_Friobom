@@ -1,0 +1,4 @@
+Positi_Produtos:=DISTINCTCOUNT([CODPROD])
+Positivação:=DISTINCTCOUNT(Venda[CODCLI])
+Valor Venda Total:=if(sum([VLVENDA])=BLANK();0;sum([VLVENDA]))
+Quantidade Itens:=if(sum([QT])=BLANK();0;sum([QT]))
